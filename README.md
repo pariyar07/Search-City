@@ -1,2 +1,2 @@
 # Search-City
-Search city and it's population.
+Search city, state and it's population.
